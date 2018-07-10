@@ -1,2 +1,1 @@
-# exercise
-学习心得  包括linux 和 pyhon
+你很牛  但是我跟牛呀!!
